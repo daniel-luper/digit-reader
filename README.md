@@ -13,7 +13,7 @@ Python program that can "read" digits thanks to deep learning.
 - MNIST digits database
 
 ## How to install
-- Install Python 3.6 and pip (as of August 2019, Keras is not compatible with Python 3.7)
+- Install Python 3.6 and pip (as of August 2019, Keras is not compatible with Python 3.7+)
 - Install libraries via pip
 ```
 pip install numpy

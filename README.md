@@ -20,5 +20,5 @@ pip install numpy
 pip install --upgrade tensorflow
 pip install opencv
 ```
-- Download and extract the files from GitHub.
+- Download and extract the files from GitHub
 - Run 'digit_reader.bat'!

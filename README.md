@@ -1,5 +1,5 @@
 # Digit Reader
-Python program that can "read" digits thanks to machine learning
+Python program that can "read" digits thanks to deep learning.
 
 ## How it works
 #### Deep learning in general

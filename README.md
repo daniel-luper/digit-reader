@@ -1,4 +1,4 @@
-# digit-reader
+# Digit Reader
 Python program that can "read" digits thanks to machine learning
 
 ## How it works

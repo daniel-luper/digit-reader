@@ -1,6 +1,10 @@
 # Digit Reader
 Python program that can "read" digits thanks to deep learning.
 
+## Demo
+<img src=https://media.giphy.com/media/mCJT4PppHliU6ZZ2Be/giphy.gif>
+<img src=https://media.giphy.com/media/kydGUeVcJW7aqT8sJC/giphy.gif>
+
 ## How it works
 #### Deep learning in general
 

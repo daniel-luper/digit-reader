@@ -2,7 +2,7 @@
 Python program that can "read" digits thanks to deep learning.
 
 ## Demo
-<img src=https://media.giphy.com/media/kydGUeVcJW7aqT8sJC/giphy.gif> <img src=https://media.giphy.com/media/mCJT4PppHliU6ZZ2Be/giphy.gif>
+<img src=https://media.giphy.com/media/kydGUeVcJW7aqT8sJC/giphy.gif width=576 height=324> <img src=https://media.giphy.com/media/mCJT4PppHliU6ZZ2Be/giphy.gif width=576 height=324>
 
 ## How it works
 #### Deep learning in general
